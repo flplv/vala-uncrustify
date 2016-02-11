@@ -7,7 +7,7 @@ With exception that:
 ## Resulting code ##
 ```C#
 namespace Opera {
-    public Class Act
+    public class Act
     {
 
         public enum Colors {
