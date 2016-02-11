@@ -1,6 +1,8 @@
 # vala-uncrustify #
 This is a uncrustify file created to match style of the project [Vala Compiler](https://github.com/GNOME/vala)
-With exception that it uses **spaces** instead **tabs**.
+
+With exception that:
+- uses **spaces** for **tabs**.
 
 ## Resulting code ##
 ```java
