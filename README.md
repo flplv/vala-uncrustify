@@ -5,9 +5,9 @@ With exception that:
 - uses **spaces** for **tabs**.
 
 ## Resulting code ##
-```java
+```C#
 namespace Opera {
-    public Class Act
+    public class Act
     {
 
         public enum Colors {
