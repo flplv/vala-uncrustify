@@ -6,7 +6,7 @@ With exception that:
 
 ## Resulting code ##
 ```java
-namespace Opera{
+namespace Opera {
     public Class Act
     {
 
