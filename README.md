@@ -3,7 +3,7 @@ This is a uncrustify file created to match style of the project [Vala Compiler](
 With exception that it uses **spaces** instead **tabs**.
 
 ## Resulting code ##
-'''java
+```java
 namespace Opera{
     public Class Act
     {
@@ -106,4 +106,4 @@ SELECT *
 
     }
 }
-'''
+```
